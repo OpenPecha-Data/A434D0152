@@ -1,0 +1,27 @@
+segment_sources:
+  IDA7D384F:
+    type: origin_type
+    relation: translation
+    base: B51B
+    lang: en
+  IC82C53CC:
+    type: origin_type
+    relation: translation
+    base: 22FA
+    lang: bo
+segment_pairs:
+  2e33fd40405b4d5f82400c8338a27528:
+    IDA7D384F: e4c1c1b34e9d46d28ac4aff2d564ab20
+    IC82C53CC: f446d08ae2f046329ecd3843034f7fef
+  3dcc24f1fd8746fca43e58466929049d:
+    IDA7D384F: 35c41c2a7a974ae9a2eb999514c36550
+    IC82C53CC: c342be0d9f2b43a1b64b79d45f856fe5
+  43c36a792d1c43e58cb5ec6ab56b8baa:
+    IDA7D384F: 619149c4f64f43eaba6167963ee0738b
+    IC82C53CC: 77761cc3e9594dc1b6237d722bfa30bf
+  5545195b8d0241c38bd3bbbec5d7c3f3:
+    IDA7D384F: bfeace897836410b83f60547d6297651
+    IC82C53CC: 0e7b7007bc404220b106d4849b8ef6b1
+  4075690d0f7a4b85b1d31960abae384c:
+    IDA7D384F: 6023d4a2c6e8408d928fc3f2e95c21d0
+    IC82C53CC: ee767fae1a3a44d38fc8a6ca1ef5cf8c
